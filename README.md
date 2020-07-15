@@ -6,7 +6,6 @@
 - ⚙️ `.py`, `.(ba)sh`, `.go`, `.tf`, `.java`, `.rb`, Linux
 - 🌱 I’m currently interested in projects involving production infrastructure, site reliability, and monitoring & alerting
 - 🐣 Interned at Okta, United Technologies, and BAE Systems
-- 🏫 I went to Purdue University
 - 😄 Pronouns: he/him/his
 
 ---
