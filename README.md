@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Andrew 👋
+---
+#### I'm a Software Engineer based in Washington, D.C.
 
-<!--
-**astpierre/astpierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [Palantir Technologies](https://www.palantir.com/)
+- ⚙️ `.py`, `.(ba)sh`, `.go`, `.tf`, `.java`, `.rb`, Linux
+- 🌱 I’m currently interested in projects involving production infrastructure, site reliability, and monitoring & alerting
+- 🐣 Interned at Okta, United Technologies, and BAE Systems
+- 🏫 I went to Purdue University
+- 😄 Pronouns: he/him/his
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![HitCount](http://hits.dwyl.com/astpierre/astpierre.svg)](http://hits.dwyl.com/astpierre/astpierre)
